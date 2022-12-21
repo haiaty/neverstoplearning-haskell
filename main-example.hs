@@ -56,3 +56,8 @@ greet who = greeting ++ " " + who
   ghci
  :load <file_name>.hs
  main
+ 
+  ---------------
+ -- COMPILE
+ -----------------
+ ghc <main_file>.hs
